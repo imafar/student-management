@@ -13,7 +13,7 @@ A simple web application for managing student information using Spring Boot, Lom
 2. Navigate to the project directory: `cd student-management`
 3. Build the application: `mvn clean package`
 4. Run application
-5. Access the application: Open a web browser and go to `http://localhost:8080`
+5. Open a web browser and go to: `http://localhost:8080`
 
 ## Technical Stack
 
